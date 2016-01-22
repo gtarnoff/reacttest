@@ -1,0 +1,29 @@
+{
+  "name": "reacttest",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "babelify": "^7.2.0",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Nat Tarnoff",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtarnoff/reacttest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gtarnoff/reacttest/issues"
+  },
+  "homepage": "https://github.com/gtarnoff/reacttest#readme"
+}
